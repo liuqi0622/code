@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+		"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+		"http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory name="111">
+        <property name="hibernate.connection.driver_class">org.gjt.mm.mysql.Driver</property>
+        <property name="hibernate.connection.password">qP9pFF*(x2k*#vvM[a5i9*[n</property>
+        <property name="hibernate.connection.url">jdbc:mysql://10.7.1.15:3306/psi_o2o</property>
+        <property name="hibernate.connection.username">uDT1itli6l6z</property>
+        <property name="hibernate.dialect">org.hibernate.dialect.MySQL5Dialect</property>
+    </session-factory>
+</hibernate-configuration>
